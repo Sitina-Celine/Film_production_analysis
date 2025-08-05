@@ -57,7 +57,9 @@ Summary of Conclusions:
 - Certain genres consistently produce higher profits (e.g., Adventure, Action).
 - High budgets do not always guarantee high profits; strategic budgeting is essential.
 - Genre preferences and budgeting trends have evolved significantly over the years.
+  Genres like action,adventure are doing well and proove exemplary for creation.
 - A weak correlation was found between production cost and profit, suggesting other factors influence revenue.
+  Avoid high production_budget movies with uncertain profits.
 
 This project highlights the power of data analytics in understanding the film industry. It provides valuable guidance for producers, investors, and marketers seeking to optimize film production decisions.
 
@@ -74,6 +76,12 @@ Folder Structure:
   - presentation.pptx
 
 The final notebook runs without errors and reflects the analysis presented in the slides.
+
+# To run this project
+To reproduce the analysis:
+- Cone the repository.
+- Open student.ipynb in Jupyter Notebook
+- Install required libraries; Pandas,matplotlib,statistics,numpy.
 
 # .gitignore
 The .gitignore file excludes large files.
